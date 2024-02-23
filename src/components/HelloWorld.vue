@@ -1,4 +1,5 @@
 <template>
+  <h1>Hello from Loftschool</h1>
 </template>
 
 <script>
